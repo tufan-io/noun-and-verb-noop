@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "sramam",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@prisma/generator-helper": "^4.4.0"
   }
 }
