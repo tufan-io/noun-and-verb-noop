@@ -1,0 +1,19 @@
+{
+  "name": "noun-and-verb-noop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "noun-and-verb": "index.js",
+    "noun_and_verb": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sramam",
+  "license": "ISC",
+  "devDependencies": {
+    "@prisma/generator-helper": "^4.4.0"
+  }
+}
